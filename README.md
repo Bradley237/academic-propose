@@ -1,1 +1,1 @@
-# academic-propose
+# academic-purpose
